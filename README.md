@@ -1,1 +1,2 @@
-# CSC course, original course material from: https://github.com/yandexdataschool/CSC_deeplearning 
+## CSC deep learning course material, source: https://github.com/yandexdataschool/CSC_deeplearning 
+CSC course: https://www.csc.fi/web/training/-/yandex_2017 
