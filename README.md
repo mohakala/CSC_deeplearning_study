@@ -4,9 +4,7 @@ See README_orig.md
 
 ### Day 0 am
 Lecture 0: Adaptive SGD
-- linear and logistic regression
-- gradient descent
-- regularization
+- linear and logistic regression, gradient descent, regularization
 
 Seminar 0: 2D classification task, direct implementation
 
@@ -32,13 +30,11 @@ Lecture 2: Deep learning for computer vision
 - data augmentation
 - batch normalization
 - - update mu, sigma with moving average with training
-- bounding box regression
-- segmentation 
-- image generation/transformation
+- bounding box regression, segmentation, image generation/transformation
 
 Seminar 2: cifar-10 image recognition
 - convolutions and pooling
-- how to improve: BN
+- how to improve: batch normalization
 
 How to... .ipynb: extra comments
 
