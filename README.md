@@ -7,6 +7,9 @@ Lecture 0: Adaptive SGD
 - linear and logistic regression, gradient descent, regularization
 
 Seminar 0: 2D classification task, direct implementation
+- implement linear classifier 
+- implement gradient descent without and with momentum, RMSPROP algorithm
+
 
 ### Day 0 pm
 Lecture 1: Neural networks 101
@@ -15,6 +18,8 @@ Lecture 1: Neural networks 101
 Lecture philosophical note: no free lunch theorem etc.
 
 Seminar 1: Theano basic programming
+- basics of theano functions, compiling, shared variables
+- computing gradients of arbitrary functions, updates
 - logistic regression: 2-class MNIST prediction
 - intro to MNIST programming task and recommended pipeline
 - mnist.py: load_dataset
@@ -23,7 +28,8 @@ Lecture Yandex: intro, highlights of ML for high-energy physics
 
 ### Day 1 am
 Seminar 1.5: MNIST classification with Lasagne
-- 3 layers -> 96% accuracy
+- 3 layers -> 96.83% test accuracy
+- with convolutions and pooling ->
 
 Lecture 2: Deep learning for computer vision
 - convolution, pooling
